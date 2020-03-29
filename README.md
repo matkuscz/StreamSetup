@@ -25,5 +25,10 @@ https://jekyllrb.com/docs/step-by-step/01-setup/
   - build
     - jekyll build - vystup do _site
     - jekyll serve - http://localhost:4000
+    - este aby se to vybuildilo musel jsem pridat do systemu nebo Gemfile:
+      - gem "jekyll"
+      - gem "addressable"
+      - gem "public_suffix"
+      - gem "colorator"
     
   
