@@ -30,5 +30,18 @@ https://jekyllrb.com/docs/step-by-step/01-setup/
       - gem "addressable"
       - gem "public_suffix"
       - gem "colorator"
+      
+      
+     
+Funkcni thema:
+- jekyll new myblog
+- cd myblog
+- bundle exec jekyll serve
+- add this to gemfile:
+  - gem "jekyll-theme-console"
+- spustit bundle
+- do _config.yml
+  - theme: jekyll-theme-console
+- spustit bundle update
     
   
