@@ -43,5 +43,5 @@ Funkcni thema:
 - do _config.yml
   - theme: jekyll-theme-console
 - spustit bundle update
-    
+- spustit "bundle exec jekyll serve"    
   
